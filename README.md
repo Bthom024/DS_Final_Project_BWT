@@ -7,3 +7,6 @@ Files committed in this update include everything related to the initial project
 
 ### Commit Update 2/5/25
 Files committed in this update include everything related to the Exploratory Data Analysis. All files are titled DS_EDA_BWT.xxxx This includes an .ipynb file containing the code necessary to complete the exploratory data analysis, a .pdf file containing the report for the exploratory data analysis, and a .pptx file containing the powerpoint presentation for the exploratory data analysis.
+
+### Commit Update 2/28/25
+Updated Exploratory Data Analysis to include more markdown descriptions and organization to the script. Script also contains overall conclusion.
