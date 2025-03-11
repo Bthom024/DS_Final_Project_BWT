@@ -12,4 +12,4 @@ Files committed in this update include everything related to the Exploratory Dat
 Updated Exploratory Data Analysis to include more markdown descriptions and organization to the script. Script also contains overall conclusion.
 
 ### Commit Update 3/10/25
-Committed the script for the preliminary predictive analytics model for the last portion of the final project. The predictive analytics script contains XGBoost, Random Forest, and SVM predictive models.
+Committed the script for the preliminary predictive analytics model along with the associated powerpoint presentation for the last portion of the final project. The predictive analytics script contains XGBoost, Random Forest, and SVM predictive models.
