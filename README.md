@@ -13,3 +13,6 @@ Updated Exploratory Data Analysis to include more markdown descriptions and orga
 
 ### Commit Update 3/10/25
 Committed the script for the preliminary predictive analytics model along with the associated powerpoint presentation for the last portion of the final project. The predictive analytics script contains XGBoost, Random Forest, and SVM predictive models.
+
+### Commit Update 3/19/25
+Committed the research poster of the final project for the Spring 2025 Celebration of Student Research and Creativity presentation.
