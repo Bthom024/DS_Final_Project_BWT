@@ -16,3 +16,6 @@ Committed the script for the preliminary predictive analytics model along with t
 
 ### Commit Update 3/19/25
 Committed the research poster of the final project for the Spring 2025 Celebration of Student Research and Creativity presentation.
+
+### Commit Update 4/15/25
+Committed the final predictive analytics model for the capstone project.
