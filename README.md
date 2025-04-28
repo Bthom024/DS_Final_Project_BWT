@@ -36,6 +36,9 @@ Overall, the analysis supported the feasibility of predicting recurrence with hi
 #### Research Poster
 A poster summarizing the work of the capstone project, which will be presented at Bellarmine University's 2025 Celebration of Student Research and Creativity.
 
+#### Final Project Presentation
+A powerpoint describing the overall methods, models, and results of the predictive analytics models used to predict breast cancer recurrence.
+
 ### Commit Update 1/16/25
 Files committed in this update include everything related to the initial project proposal. All files are titled DS_Final_Project_Proposal_BWT.xxxx This includes a .pdf file of the initial proposal report and a .pptx file of the project proposal presentation. The data set for this project was also committed at this time (DS_FinalProject_Data_BWT.csv).
 
@@ -53,3 +56,6 @@ Committed the research poster of the final project for the Spring 2025 Celebrati
 
 ### Commit Update 4/15/25
 Committed the final predictive analytics model for the capstone project.
+
+### Commit Update 4/28/25
+Committed the final project presentation for the capstone project detailing all major methods, models and results.
