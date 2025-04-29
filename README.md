@@ -39,6 +39,9 @@ A poster summarizing the work of the capstone project, which will be presented a
 #### Final Project Presentation
 A powerpoint describing the overall methods, models, and results of the predictive analytics models used to predict breast cancer recurrence.
 
+#### Final Project Report
+A report on the capstone project that summarizes the entire project and contains a reflection on the project.
+
 ### Commit Update 1/16/25
 Files committed in this update include everything related to the initial project proposal. All files are titled DS_Final_Project_Proposal_BWT.xxxx This includes a .pdf file of the initial proposal report and a .pptx file of the project proposal presentation. The data set for this project was also committed at this time (DS_FinalProject_Data_BWT.csv).
 
@@ -59,3 +62,4 @@ Committed the final predictive analytics model for the capstone project.
 
 ### Commit Update 4/28/25
 Committed the final project presentation for the capstone project detailing all major methods, models and results.
+Committed the final project report for the capstone project.
